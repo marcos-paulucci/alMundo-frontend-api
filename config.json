@@ -1,0 +1,10 @@
+{
+    "development": {
+        "listenPort": 3100,
+        "debug": true
+    },
+    "production": {
+        "listenPort": 4900,
+        "debug": false
+    }
+}
